@@ -1,1 +1,1 @@
-Given a number, return True if its a palindrome number, else return False.
+MAKE A FUNCTION THAT TAKES A LIST OF NUMBERS AND RETURNS THE SUM OF ALL PRIME NUMBERS IN THE LIST
